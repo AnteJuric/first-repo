@@ -1,5 +1,5 @@
 #include "Warrior.h"
 
-int main(){
+int MainFunc(){
 
 }
